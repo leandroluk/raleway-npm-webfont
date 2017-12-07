@@ -1,0 +1,23 @@
+{
+    "name": "raleway-npm-webfont",
+    "version": "0.0.1",
+    "description": "Raleway webfont package",
+    "main": "style.css",
+    "scripts": {
+        "test": "echo \"No test !!!\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/leandroluk/raleway-npm-webfont.git"
+    },
+    "keywords": [
+        "raleway",
+        "webfont"
+    ],
+    "author": "Leandro Santiago Gomes",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/leandroluk/raleway-npm-webfont/issues"
+    },
+    "homepage": "https://github.com/leandroluk/roboto-npm-webfont#readme"
+}
